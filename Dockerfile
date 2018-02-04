@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.05
+FROM ubuntu:14.04
 MAINTAINER samlty <samlty.xu@gmail.com>
 
 ENV SOURCE_DIR /opt/openair_cn
